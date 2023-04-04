@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53a09b1d-d2f6-413f-8227-b702d70fe52d" name="Changes" comment="I have changed" />
+    <list default="true" id="53a09b1d-d2f6-413f-8227-b702d70fe52d" name="Changes" comment="I have changed;lm;l">
+      <change beforePath="$PROJECT_DIR$/src/Almas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Almas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680633168971</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="I have changed">
+      <created>1680633306780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680633306780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="I have changed;lm;l">
+      <created>1680633329588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680633329588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I have changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="I have changed" />
+    <MESSAGE value="I have changed;lm;l" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have changed;lm;l" />
   </component>
 </project>
