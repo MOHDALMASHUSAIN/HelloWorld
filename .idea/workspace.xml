@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53a09b1d-d2f6-413f-8227-b702d70fe52d" name="Changes" comment="I have changed;lm;l">
-      <change beforePath="$PROJECT_DIR$/src/Almas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Almas.java" afterDir="false" />
+    <list default="true" id="53a09b1d-d2f6-413f-8227-b702d70fe52d" name="Changes" comment="I have changed;lm;ltf">
+      <change afterPath="$PROJECT_DIR$/src/kevin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680633329588</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I have changed;lm;ltf">
+      <created>1680633640481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680633640481</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I have changed" />
     <MESSAGE value="I have changed;lm;l" />
-    <option name="LAST_COMMIT_MESSAGE" value="I have changed;lm;l" />
+    <MESSAGE value="I have changed;lm;ltf" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have changed;lm;ltf" />
   </component>
 </project>
